@@ -1,0 +1,123 @@
+,sample,track,event
+0,TCGA-A8-A097,TP53,Truncating mutation (putative driver)
+1,TCGA-A8-A097,TTN,Missense Mutation (putative passenger)
+2,TCGA-A8-A097,TP53,sv_rec
+3,TCGA-A8-A097,SYNE1,sv
+4,TCGA-AR-A256,FLG,Amplification
+5,TCGA-AR-A256,HMCN1,Amplification
+6,TCGA-AR-A256,TP53,Truncating mutation (putative driver)
+7,TCGA-AR-A256,MUC16,Missense Mutation (putative passenger)
+8,TCGA-AR-A256,TP53,sv_rec
+9,TCGA-A7-A2KD,TP53,homdel_rec
+10,TCGA-A7-A2KD,TP53,Truncating mutation (putative driver)
+11,TCGA-A7-A2KD,HMCN1,Missense Mutation (putative passenger)
+12,TCGA-A7-A2KD,TP53,mRNA Low
+13,TCGA-E2-A9RU,TP53,homdel_rec
+14,TCGA-E2-A9RU,TP53,Missense Mutation (putative driver)
+15,TCGA-E2-A9RU,PIK3CA,Missense Mutation (putative driver)
+16,TCGA-E2-A9RU,PIK3CA,mRNA Low
+17,TCGA-AO-A1KS,TP53,homdel_rec
+18,TCGA-AO-A1KS,TP53,mRNA Low
+19,TCGA-AO-A1KS,PTEN,mRNA High
+20,TCGA-A8-A06R,TP53,homdel_rec
+21,TCGA-A8-A06R,GATA3,amp_rec
+22,TCGA-A8-A06R,RYR2,Amplification
+23,TCGA-A8-A06R,SYNE1,Amplification
+24,TCGA-A8-A06R,PIK3CA,Missense Mutation (putative driver)
+25,TCGA-A8-A06R,MUC16,Truncating mutation (putative passenger)
+26,TCGA-A8-A06R,SYNE1,Missense Mutation (putative passenger)
+27,TCGA-A8-A06R,PTEN,Truncating mutation (putative driver)
+28,TCGA-A8-A06R,FLG,mRNA Low
+29,TCGA-GI-A2C8,TP53,homdel_rec
+30,TCGA-GI-A2C8,TTN,Missense Mutation (putative passenger)
+31,TCGA-GI-A2C8,CDH1,Missense Mutation (putative passenger)
+32,TCGA-AC-A3W5,TP53,homdel_rec
+33,TCGA-AC-A3W5,TTN,Missense Mutation (putative passenger)
+34,TCGA-AC-A3W5,USH2A,Missense Mutation (putative passenger)
+35,TCGA-B6-A0RT,TP53,homdel_rec
+36,TCGA-B6-A0RT,GATA3,amp_rec
+37,TCGA-B6-A0RT,FLG,Amplification
+38,TCGA-B6-A0RT,RYR2,Amplification
+39,TCGA-A8-A08G,TP53,homdel_rec
+40,TCGA-A8-A08G,GATA3,Truncating mutation (putative driver)
+41,TCGA-A8-A08G,FLG,Missense Mutation (putative passenger)
+42,TCGA-A2-A0CU,TP53,homdel_rec
+43,TCGA-B6-A0WX,FLG,Amplification
+44,TCGA-B6-A0WX,RYR2,Amplification
+45,TCGA-B6-A0WX,USH2A,Amplification
+46,TCGA-B6-A0WX,HMCN1,Amplification
+47,TCGA-B6-A0WX,TP53,Truncating mutation (putative driver)
+48,TCGA-B6-A0WX,TP53,mRNA High
+49,TCGA-B6-A0WX,MUC16,mRNA High
+50,TCGA-E9-A226,PIK3CA,amp_rec
+51,TCGA-E9-A226,TP53,Truncating mutation (putative driver)
+52,TCGA-E9-A226,PIK3CA,Missense Mutation (putative driver)
+53,TCGA-E9-A226,KMT2C,Truncating mutation (putative driver)
+54,TCGA-E9-A226,TP53,mRNA Low
+55,TCGA-E9-A226,PIK3CA,mRNA High
+56,TCGA-E9-A226,RYR2,mRNA Low
+57,TCGA-A8-A06U,PIK3CA,amp_rec
+58,TCGA-A8-A06U,TP53,Truncating mutation (putative driver)
+59,TCGA-A8-A06U,PIK3CA,Missense Mutation (putative driver)
+60,TCGA-A8-A06U,TTN,Truncating mutation (putative passenger)
+61,TCGA-A8-A06U,USH2A,splice
+62,TCGA-A8-A06U,HMCN1,Truncating mutation (putative passenger)
+63,TCGA-A8-A06U,TP53,mRNA Low
+64,TCGA-A8-A06U,KMT2C,sv_rec
+65,TCGA-A8-A08P,PIK3CA,amp_rec
+66,TCGA-A8-A08P,TP53,Truncating mutation (putative driver)
+67,TCGA-A8-A08P,PIK3CA,Missense Mutation (putative driver)
+68,TCGA-A8-A08P,KMT2C,Truncating mutation (putative driver)
+69,TCGA-A8-A08P,TP53,mRNA Low
+70,TCGA-AO-A124,PIK3CA,amp_rec
+71,TCGA-AO-A124,RYR2,Amplification
+72,TCGA-AO-A124,SYNE1,Amplification
+73,TCGA-AO-A124,TP53,Truncating mutation (putative driver)
+74,TCGA-AO-A124,MUC16,Missense Mutation (putative passenger)
+75,TCGA-AO-A124,RYR2,Missense Mutation (putative passenger)
+76,TCGA-AO-A124,SYNE1,Missense Mutation (putative passenger)
+77,TCGA-AO-A124,TP53,mRNA Low
+78,TCGA-AO-A124,PIK3CA,mRNA High
+79,TCGA-AO-A124,PTEN,mRNA Low
+80,TCGA-AO-A124,KMT2C,sv_rec
+81,TCGA-AO-A0J6,PIK3CA,amp_rec
+82,TCGA-AO-A0J6,PTEN,homdel_rec
+83,TCGA-AO-A0J6,TP53,Truncating mutation (putative driver)
+84,TCGA-AO-A0J6,TTN,Missense Mutation (putative passenger)
+85,TCGA-AO-A0J6,USH2A,Missense Mutation (putative passenger)
+86,TCGA-AO-A0J6,TP53,mRNA Low
+87,TCGA-AO-A0J6,MUC16,mRNA High
+88,TCGA-AO-A0J6,RYR2,mRNA High
+89,TCGA-AO-A0J6,PTEN,mRNA Low
+90,TCGA-OL-A5RW,PIK3CA,amp_rec
+91,TCGA-OL-A5RW,KMT2C,homdel_rec
+92,TCGA-OL-A5RW,TP53,Truncating mutation (putative driver)
+93,TCGA-OL-A5RW,RYR2,Missense Mutation (putative passenger)
+94,TCGA-OL-A5RW,TP53,mRNA Low
+95,TCGA-OL-A5RW,KMT2C,mRNA Low
+96,TCGA-OL-A5RW,SYNE1,mRNA Low
+97,TCGA-A8-A07B,TP53,Truncating mutation (putative driver)
+98,TCGA-A8-A07B,PIK3CA,Missense Mutation (putative driver)
+99,TCGA-A8-A07B,CDH1,Truncating mutation (putative driver)
+100,TCGA-A8-A07B,TP53,mRNA Low
+101,TCGA-A8-A07B,CDH1,mRNA Low
+102,TCGA-A8-A07B,RYR2,mRNA High
+103,TCGA-BH-A202,TP53,Truncating mutation (putative driver)
+104,TCGA-BH-A202,PIK3CA,Missense Mutation (putative driver)
+105,TCGA-BH-A202,KMT2C,Truncating mutation (putative driver)
+106,TCGA-BH-A202,USH2A,Missense Mutation (putative passenger)
+107,TCGA-BH-A202,TP53,mRNA Low
+108,TCGA-AR-A24K,TP53,Truncating mutation (putative driver)
+109,TCGA-AR-A24K,PIK3CA,Missense Mutation (putative driver)
+110,TCGA-AR-A24K,TP53,mRNA Low
+111,TCGA-AR-A24K,KMT2C,mRNA High
+112,TCGA-AR-A5QQ,TP53,Truncating mutation (putative driver)
+113,TCGA-AR-A5QQ,PIK3CA,Missense Mutation (putative driver)
+114,TCGA-AR-A5QQ,PTEN,Missense Mutation (putative driver)
+115,TCGA-AR-A5QQ,TP53,mRNA Low
+116,TCGA-AR-A5QQ,KMT2C,mRNA Low
+117,TCGA-A2-A0CW,TP53,Truncating mutation (putative driver)
+118,TCGA-A2-A0CW,PIK3CA,Missense Mutation (putative driver)
+119,TCGA-A2-A0CW,RYR2,Missense Mutation (putative passenger)
+120,TCGA-A2-A0CW,USH2A,Missense Mutation (putative passenger)
+121,TCGA-A2-A0CW,TP53,mRNA Low
